@@ -1,0 +1,1 @@
+This folder contains the built output assets for the worker "medical-devices-backend" generated at 2026-02-11T14:25:42.893Z.
